@@ -2,7 +2,7 @@
 
 <br>
 🎓 Undergraduate Student  <br>
-💻 Passionate about Networking, DevOps, Backend Development and Frontend  <br> <br>
+💻 Passionate about Cloud, Networking, DevOps, Backend Development and Frontend  <br> <br>
 
 I enjoy solving challenging problems and continuously pushing myself beyond my comfort zone.  
 If something is considered difficult, I see it as an opportunity to learn and improve.
