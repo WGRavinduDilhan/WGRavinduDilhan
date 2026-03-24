@@ -12,8 +12,8 @@ Currently, I am expanding my knowledge in **Devops** and **Backend Development**
 You can get me at: <br>
 Email: dilhanwgr2002@gmail.com  <br>
 LinkedIn: www.linkedin.com/in/ravindu-dilhan-7aa47231b  <br>
-Portfolio: loading....  <br>
-Blog: loading....       <br> <br>
+Blog: https://medium.com/@dilhanwgr2002  <br>
+Portfolio: loading....   <br> <br>
 
 
 # Tools & Technologies 🛠
