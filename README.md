@@ -41,9 +41,6 @@ Portfolio: loading....   <br> <br>
 </p>
 <br>
 
-# 🔥 GitHub Streak
-
-# ![GitHub Streak](https://streak-stats.demolab.com?user=WGRavinduDilhan&theme=tokyonight)
 
 
 
